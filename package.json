@@ -1,0 +1,19 @@
+{
+  "name": "delacruzinmobiliaria",
+  "version": "1.0.0",
+  "description": "Proyecto MVC para gestión de inmobiliaria",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelmatiasdelacruz/delacruz-inmobiliaria.git"
+  },
+  "author": "Nahuel De La Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelmatiasdelacruz/delacruz-inmobiliaria/issues"
+  },
+  "homepage": "https://github.com/nahuelmatiasdelacruz/delacruz-inmobiliaria#readme"
+}
